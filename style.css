@@ -1,0 +1,75 @@
+.cantor{
+    text-align: left;
+    background: linear-gradient(to right,
+    red,
+    orange,
+    yellow,
+    green,
+    violet,
+    violet,
+    violet,
+    violet);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    }
+
+.musica{
+    text-align: left;
+    background: linear-gradient(to right,
+    yellow,
+    orange,
+    red,
+    green,
+    violet,
+    violet);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    }
+
+.letra{
+    text-align: left;
+    background: linear-gradient(to right,
+    blue,
+    indigo,
+    violet);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    }
+
+.estrofe1{
+    color: rgb(139, 42, 42);
+    text-align: left;
+    }
+
+.estrofe2{
+    color: rgb(139, 42, 42);
+    text-align: left;
+    }
+
+.estrofe3{
+    color: rgb(139, 42, 42);
+    text-align: left;
+    }
+
+.estrofe4{
+    color: rgb(139, 42, 42);
+    text-align: left;
+    }
+
+.estrofe5{
+    color: rgb(139, 42, 42);
+    text-align: left;
+    }
+.estrofe6{
+    color: rgb(139, 42, 42);
+    text-align: left;
+    }
+
+.estrofe7{
+    color: rgb(139, 42, 42);
+    text-align: left;
+    }
+
+.video{
+    text-align: center;
+    }
